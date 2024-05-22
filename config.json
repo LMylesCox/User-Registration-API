@@ -7,10 +7,10 @@
 
 	"DiscordLogging": { // Deprecated
 		"DiscordLoggin": false,
-		"DiscordWebhookID": 94765,
-		"WebhookName": "rain.",
-		"AvatarURL": "https://cdn.discordapp.com/attachments/908468444167557161/911057238918062170/cat-cute.jpg",
-		"DiscordWebhookToken": "XVia3lsi0S_WZM7_wVXas7sAGBcRaqqN_VescvyIjYX27mcloLoI"
+		"DiscordWebhookID": ,
+		"WebhookName": "",
+		"AvatarURL": "",
+		"DiscordWebhookToken": ""
 	},
 
 	"Info": {
